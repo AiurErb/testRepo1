@@ -1,6 +1,10 @@
-# Test repository
+# About my
 
-It is my test repository for learn course.
-1. Make repo
-2. Pull to local laptop
-3. Make a branch
+I'm Aiur Erbaktanov
+I live in Cologne
+I began with web development in 2022
+
+My skills:
+1. C#
+2. ASP.NET
+3. Databases
